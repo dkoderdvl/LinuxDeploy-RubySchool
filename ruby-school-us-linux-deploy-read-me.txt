@@ -185,6 +185,8 @@ sudo apt-get install  geany
 
 6.Импорт готового контейнера
 
+Ссылка на Google Диск: https://drive.google.com/open?id=1VeB53MSlqvW5yR0J6tDXZOcfqAjtEFC7
+
 скопировать .img на sdcard
 установить настройки как в пунктах 4.3
 в основных настройках выбрать "Обновить окружение"
