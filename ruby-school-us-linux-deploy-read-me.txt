@@ -187,6 +187,9 @@ sudo apt-get install  geany
 
 Ссылка на Google Диск: https://drive.google.com/open?id=1VeB53MSlqvW5yR0J6tDXZOcfqAjtEFC7
 
+Логин: rubyschool
+Пользователь: 123
+
 скопировать .img на sdcard
 установить настройки как в пунктах 4.3
 в основных настройках выбрать "Обновить окружение"
